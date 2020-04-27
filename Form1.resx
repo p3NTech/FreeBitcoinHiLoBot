@@ -117,17 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="label1.Text" xml:space="preserve">
-    <value>Для того, что бы воспользоваться ботом, необходимо нажать на кнопку "Зайти на freebitco.in"
-Затем, авторизоваться со своим адресом электронной почты (или адресом BTC кошелька) и паролем
-Кликнуть на сайте на ссылку с игрой и выбрать тип - Manual Bet
-Выбрать текстовый файл (.txt) с инструкциями для бота
-Выбрать пустой текстовый файл (.txt) для записи логов
-Нажать на кнопку "Играть" 
-В случае возникновения принудительно завершить работу программы - нажать на кнопку "Выйти из программы"
-После того, как бот выполнит работу, заданную в текстовом файле (.txt), - нажать на кнопку "Выйти из программы"
-Для запуска бота с новым текстовым файлом (.txt) необходимо перезапустить программу</value>
-  </data>
   <metadata name="backgroundWorker1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
